@@ -1,0 +1,13 @@
+.container {
+  background-color: lavender;
+}
+
+h1 {
+  font-size: 3rem;
+  color: brown;
+}
+
+ul {
+  font-size: 1.5rem;
+  margin: 0;
+}
