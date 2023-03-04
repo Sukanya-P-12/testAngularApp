@@ -1,0 +1,3 @@
+npm i angular-cli-ghpages
+npm build --output-path docs
+ng deploy --base-href=/testAngularApp
